@@ -1,4 +1,4 @@
-# Cycle - Código generación de obras de Arte Generativo
+# Cycle
 
 **Autor:** Gerard Valls Montaño  
 **Año:** 2025  
