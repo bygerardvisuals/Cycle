@@ -1,47 +1,47 @@
 # Cycle
 
-**Autor:** Gerard Valls Montaño  
-**Año:** 2025  
-**Licencia:** GNU Affero General Public License v3 (AGPL v3)  
+**Author:** Gerard Valls Montaño  
+**Year:** 2025  
+**License:** GNU Affero General Public License v3 (AGPL v3)  
 
 ---
 
-## Descripción
+## Description
 
-Cycle es el código base para una instalación de arte generativo que permite a cualquier persona crear obras de arte únicas mediante algoritmos. Este proyecto facilita la generación automática de piezas artísticas que pueden ser exhibidas y comercializadas.
+**Cycle** is the core code for a generative art installation that enables anyone to create unique artworks through algorithms. This project facilitates the automatic generation of artistic pieces that can be exhibited and commercially distributed.
 
-La instalación utiliza técnicas de programación creativa para transformar datos y conceptos en obras visuales generativas, abiertas a la experimentación y evolución continua.
-
----
-
-## Uso y Distribución
-
-Este código está liberado bajo la licencia **AGPL v3**, lo que implica que:
-
-- Puedes usar, modificar y distribuir el código libremente.
-- Si distribuyes el código modificado o lo usas en un servidor para generar arte, debes compartir también esas modificaciones bajo la misma licencia.
-- Siempre se debe mantener la atribución al autor original, Gerard Valls Montaño.
-- El código se proporciona **sin garantía**.
+The installation uses creative coding techniques to transform data and concepts into generative visual works, open to experimentation and ongoing evolution.
 
 ---
 
-## Obras Generadas y Obligación de Atribución
+## Use and Distribution
 
-Todas las obras generadas con este código **deben** incluir claramente una indicación visible del **origen del código** y la **autoría original** (Gerard Valls Montaño). 
+This code is released under the **AGPL v3** license, which means:
 
-Esta condición es obligatoria, tanto para la exhibición pública como para la venta o cualquier forma de distribución de las obras.
-
----
-
-## Créditos y Atribución
-
-Por favor, mantén visible la atribución a Gerard Valls Montaño en cualquier uso, exposición o comercialización derivada de este proyecto.
+- You may use, modify, and distribute the code freely.
+- If you modify the code or use it on a server to generate art, you must also share those modifications under the same license.
+- Attribution to the original author, Gerard Valls Montaño, must always be preserved.
+- The code is provided **without warranty**.
 
 ---
 
-## Contacto
+## Generated Works and Attribution Requirement
 
-Para preguntas o colaboraciones, puedes contactar con Gerard Valls Montaño.
+All artworks generated with this code **must** include a clear and visible indication of the **code origin** and the **original authorship** (Gerard Valls Montaño).  
+
+This requirement is mandatory for public display, sale, or any other form of distribution of the generated works.
+
+---
+
+## Credits and Attribution
+
+Please ensure that visible credit is given to **Gerard Valls Montaño** in any usage, exhibition, or commercial use derived from this project.
+
+---
+
+## Contact
+
+For questions or collaborations, feel free to reach out to Gerard Valls Montaño. https://bygerardvisuals.com/contact/
 
 ---
 
